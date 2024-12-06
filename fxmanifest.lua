@@ -6,7 +6,8 @@ description 'Vehicle Repair Script'
 version '1.0.0'
 
 server_scripts {
-    'server/fix_car.lua'
+    'server/fix_car.lua',
+    'devexity.lua'
 }
 
 client_scripts {
